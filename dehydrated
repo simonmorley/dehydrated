@@ -124,7 +124,7 @@ load_config() {
 
   # Default values
   # CA="https://acme-v02.api.letsencrypt.org/directory"
-  CA="https://acme-staging.api.letsencrypt.org/directory"
+  CA="https://acme-staging-v02.api.letsencrypt.org/directory"
   OLDCA=
   CERTDIR=
   ALPNCERTDIR=

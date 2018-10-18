@@ -128,7 +128,7 @@ load_config() {
   OLDCA=
   CERTDIR=
   ALPNCERTDIR=
-  ACCOUNTDIR=/app/accounts/
+  ACCOUNTDIR=/app/accounts
   CHALLENGETYPE="http-01"
   CONFIG_D=
   CURL_OPTS=
